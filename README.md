@@ -42,16 +42,13 @@ A simple **CRM System** built using the **MERN Stack** to manage leads generated
 
 ---
 
-## 📂 Project Structure
+## 🎯 Task Objective
+The objective of this project is to create a CRM system where an admin can securely manage website leads, update their status, add information, and track customers.
 
-```text
-CRM_task_02/
-│
-├── Screenshots/
-│   ├── Admin_login.PNG
-│   ├── Leads_list.PNG
-│   ├── dashboard.PNG
-│   └── update_view_form.PNG
-│
-├── .gitignore
-└── README.md
+## 👨‍💻 Developer
+**Saqib Bahadur**
+Full Stack MERN Developer
+
+
+**📌 Internship** : 
+Future Interns — Full Stack Web Development Internship
